@@ -1,0 +1,132 @@
+{
+  "versions": [
+      {
+        "number": "2.12",
+        "date": "December 28, 2018",
+        "title": "Inline Files",
+        "innovation": "Create, edit and delete inline files in text sections and tables.",
+        "features": [
+          {
+            "name": "Formulas Editor",
+            "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
+            "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+            "icon": "https://i.ibb.co/X883Y14/12-1.png"
+          },
+          {
+            "name": "Import/Export comments",
+            "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
+            "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+            "icon": "https://i.ibb.co/MpSFcPd/12-2.png"
+          },
+          {
+            "name": "Quick Start Menus",
+            "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
+            "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+            "icon": "https://i.ibb.co/zQ4f8C0/12-3.png"
+          },
+          {
+            "name": "One More Feature",
+            "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
+            "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+            "icon": "https://i.ibb.co/jvqqFrZ/icon-no-icon.png"
+          }
+        ]
+      },
+      {
+        "number": "2.11",
+        "date": "November 8, 2018",
+        "title": "",
+        "innovation": "",
+        "features": [
+          {
+            "name": "Interface Upgrade",
+            "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
+            "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+            "icon": "https://i.ibb.co/8530wyh/11-1.png"
+          },
+          {
+            "name": "Search/Replace Styles",
+            "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
+            "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+            "icon": "https://i.ibb.co/C1DxpWg/11-2.png"
+          },
+          {
+            "name": "More Shortcuts",
+            "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
+            "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+            "icon": "https://i.ibb.co/Qv88Xcq/11-3.png"
+          },
+          {
+            "name": "Level of Numbering",
+            "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
+            "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+            "icon": "https://i.ibb.co/2y0N9cZ/11-4.png"
+          }
+        ]
+      },
+      {
+        "number": "2.10",
+        "date": "September 28, 2018",
+        "title": "",
+        "innovation": "",
+        "features": [
+          {
+            "name": "User toolbar",
+            "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
+            "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+            "icon": "https://i.ibb.co/4dvzCH2/10-1.png"
+          },
+          {
+            "name": "Inline images",
+            "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
+            "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+            "icon": "https://i.ibb.co/T48v4kx/10-2.png"
+          },
+          {
+            "name": "Free positionable directories",
+            "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
+            "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+            "icon": "https://i.ibb.co/MSBQ1PR/10-3.png"
+          },
+          {
+            "name": "Export rights",
+            "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
+            "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+            "icon": "https://i.ibb.co/DGg7n5B/10-4.png"
+          }
+        ]
+      },
+      {
+        "number": "2.09",
+        "date": "September 3, 2018",
+        "title": "",
+        "innovation": "",
+        "features": [
+          {
+            "name": "Spell check",
+            "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
+            "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+            "icon": "https://i.ibb.co/sgF5mN6/09-1.png"
+          },
+          {
+            "name": "Section tags",
+            "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
+            "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+            "icon": "https://i.ibb.co/j67gf61/09-2.png"
+          },
+          {
+            "name": "Magic tabs",
+            "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
+            "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+            "icon": "https://i.ibb.co/YfzDn4t/09-3.png"
+          },
+          {
+            "name": "Undo feature",
+            "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
+            "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+            "icon": "https://i.ibb.co/jzWmyFy/09-4.png"
+          }
+        ]
+      }
+    ]
+}
